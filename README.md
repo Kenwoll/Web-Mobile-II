@@ -18,3 +18,15 @@
 3. For both applications install Maven Wrapper.
 4. Commit and push the changes.
 5. Do the same for a simple java standalone and web project using gradle.
+
+## Week 4
+
+<b>Task:</b> Create a CRUD app for a library system
+
+1. There should be the following pages: 
+    - to list all the available books in the library
+    - select a book from the library and update it
+    - select a book from the library and delete it
+    - to create a new book in the library
+2. Each book has its title, description, year, and author.
+3. Properly design all the pages (recall techniques learned in WM1)
